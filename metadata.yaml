@@ -1,0 +1,37 @@
+_repo: A-Life-of-William-Shakespearewith-portraits-and-facsimiles_23464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Sidney, Sir
+    aliases:
+    - Lee, Sidney Lazarus, Sir
+    - Levi, Solomon Lazarus
+    - Lee, Sidney L. (Sidney Lazarus), Sir
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '8246'
+    url: http://www.gutenberg.org/2009/agents/8246
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Lee
+description: ''
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23464'
+  lccn: '17010834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stratford-upon-Avon (England) -- Biography'
+- !lcsh 'Dramatists, English -- Early modern, 1500-1700 -- Biography'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Biography'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Bibliography'
+title: 'A Life of William Shakespeare
+
+  with portraits and facsimiles'
+url: http://www.gutenberg.org/ebooks/23464
